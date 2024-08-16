@@ -5,3 +5,11 @@
 # Hello, I'm Vladislava 👋
 
 </div>
+
+### :man_technologist: Обо мне:
+
+### :hammer_and_wrench: Языки и инструменты :
+
+### :metal: Умею:
+
+### :book: Мои проекты:
