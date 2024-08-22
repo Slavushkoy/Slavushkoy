@@ -21,7 +21,7 @@ Python, SQL, Scikit-learn, Pandas, Docker, PowerBI, DAX, Apache Airflow, FastAPI
 ### :book: Мои проекты:
 
 За время обучения на курсе "ML Engineering" мной выполнены проекты:
-- [Рекомендательная система постов]()
+- [Рекомендательная система постов](https://github.com/Slavushkoy/recommend_post)
 - [Модель предсказания оценки вина]()
 - [ML cервис предсказания оценки вина]()
 - [Предсказание длительности пребывания животного в приюте](https://github.com/Slavushkoy/MFDP)
