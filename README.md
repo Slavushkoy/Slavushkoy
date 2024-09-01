@@ -24,21 +24,21 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
-  <img src="https://img.shields.io/badge/python-white?logo=python&logoColor=blue&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/python-white?logo=python&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/scikitlearn-white?logo=scikit-learn&logoColor=blue&style=for-the-badge" title="Scikit-learn" alt="Scikit-learn" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/catboost-white?logo=catboost&logoColor=blue&style=for-the-badge" title="catboost" alt="catboost" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQL-white?logo=SQL&s&style=for-the-badge" title="SQL" alt="SQL" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/git-white?logo=git&logoColor=black&style=for-the-badge" title="Git" alt="Git" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-white?logo=FastAPI&style=for-the-badge" title="FastAPI" alt="FastAPI" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/RabbitMQ-white?logo=RabbitMQ&style=for-the-badge" title="RabbitMQ" alt="RabbitMQ" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-white?logo=Streamlit&style=for-the-badge" title="Streamlit" alt="Streamlit" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visiology-white?logo=Visiology&style=for-the-badge" title="Visiology" alt="Visiology" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-white?logo=python&logoColor=blue&style=for-the-badge" title="Python" alt="Python" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-white?logo=python&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/scikitlearn-white?logo=scikit-learn&logoColor=blue&style=for-the-badge" title="Scikit-learn" alt="Scikit-learn" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/catboost-white?logo=catboost&logoColor=blue&style=for-the-badge" title="catboost" alt="catboost" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-white?logo=SQL&s&style=for-the-badge" title="SQL" alt="SQL" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/git-white?logo=git&logoColor=black&style=for-the-badge" title="Git" alt="Git" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-white?logo=FastAPI&style=for-the-badge" title="FastAPI" alt="FastAPI" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-white?logo=RabbitMQ&style=for-the-badge" title="RabbitMQ" alt="RabbitMQ" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-white?logo=Streamlit&style=for-the-badge" title="Streamlit" alt="Streamlit" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visiology-white?logo=Visiology&style=for-the-badge" title="Visiology" alt="Visiology" height="30"/>&nbsp;
 </div>
 
 ### :book: Мои проекты:
